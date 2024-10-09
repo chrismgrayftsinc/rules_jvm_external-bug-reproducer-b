@@ -1,2 +1,2 @@
 common --registry=https://bcr.bazel.build
-common --registry=file:///tmp/registry
+common --registry=https://raw.githubusercontent.com/chrismgrayftsinc/rules_jvm_external-bug-reproducer-registry/main
